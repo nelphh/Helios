@@ -9,15 +9,6 @@ Landing page for Helios — a secure enterprise knowledge retrieval product.
 - Tailwind CSS v4
 - Figtree (Google Fonts)
 
-## Getting started
-
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000).
-
 ## Structure
 
 ```
